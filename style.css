@@ -39,3 +39,15 @@ p {
   margin: 6.4px 0;
   font-size: 16.8px;
 }
+
+.about-me {
+  background: #f0f6fa;
+  border-radius: 8px;
+  padding: 19.2px 32px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.06);
+}
+
+.about-me h2 {
+  color: #2c3e50;
+  margin-top: 0;
+}
